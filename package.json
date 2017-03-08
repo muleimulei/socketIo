@@ -1,0 +1,15 @@
+{
+  "name": "chat-online",
+  "version": "1.0.0",
+  "description": "线上通信",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^1.3.4",
+    "socket.io": "^1.7.3"
+  }
+}
